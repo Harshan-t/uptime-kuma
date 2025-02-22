@@ -31,6 +31,7 @@ import {
     faQuestionCircle,
     faImages,
     faUpload,
+    faDownload,
     faCopy,
     faCheck,
     faFile,
@@ -77,6 +78,7 @@ library.add(
     faQuestionCircle,
     faImages,
     faUpload,
+    faDownload,
     faCopy,
     faCheck,
     faFile,
@@ -100,4 +102,3 @@ library.add(
 );
 
 export { FontAwesomeIcon };
-
